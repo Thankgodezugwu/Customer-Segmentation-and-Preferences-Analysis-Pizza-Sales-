@@ -69,16 +69,49 @@ By systematically addressing these tasks, the dataset was prepared to undergo in
 -The pizza with the least price and highest price
 ### Results/Findings
 - 1. Our analysis reveals a consistent trend: Fridays consistently boast the highest order volume, while Sundays consistently record the lowest. This insight equips the business owner with actionable information for strategic decision-making based on weekly order frequency trends.
+
+      ![i](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/5c1d1b91-12f3-46e6-acd7-d77ef26be9f5)
+
 - 2. July stands out as the month with the highest order frequency, while October consistently exhibits the lowest. Armed with this insight, The business owner gains valuable information for making well-informed decisions, especially regarding seasonal variations in order volume.
+  
+     ![ii](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/94c22bd2-57e0-424c-a72f-d9337a21c7a7)
+
 - 3. The Classic pizza category consistently generates the highest revenue, contrasting with the Veggie category, which consistently exhibits the lowest. This crucial insight empowers the business owner to make informed decisions, particularly in product offerings and marketing strategies.
+  
+     ![iii](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/d4c18ce6-a6ff-4bcc-b5d2-73835b58abc7)
+
 - 4. Large-sized pizzas consistently yield the highest revenue, with the XXL size consistently registering the lowest. This finding guides the business owner in making size-related decisions, optimizing product offerings, and aligning with customer preferences.
+
+     ![iv](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/289a0165-307d-40c8-9c63-c52fbcec8641)
+
 - 5. The top 5 pizzas that contributes to highest revenue are The Thai Chicken Pizza, Barbecue Chicken Pizza, California Chicken Pizza, Classic Deluxe Pizza, Spicy Italian Pizza. This offers a valuable tool for understanding each pizza's impact on overall revenue. This aids strategic decision-making, allowing the business owner to allocate resources effectively.
+   
+     ![v](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/be7ea996-8e7e-4c3f-8416-b2a6985795af)
+
 - 6. There are peak order volumes during the afternoon, particularly between 12:00 and 13:00. Armed with this knowledge, the business owner can tailor operational and marketing strategies to capitalize on peak demand, enhancing overall efficiency and customer satisfaction.
+
+      ![vi](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/865a14bb-e110-4d6c-8543-2b032ecef750)
+
 - 7. July consistently emerges as the month with the highest revenue, providing strategic insights for business decisions. Understanding revenue trends enables informed choices across various facets of the business, contributing to long-term success.
+
+      ![vii](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/9067d372-4e6b-4fde-b1cc-53275499ee84)
+
 - 8. Seasonal analysis highlights that the spring season consistently yields the highest revenue, while fall sees the lowest. This nuanced understanding allows our client to plan strategically, allocate resources effectively, and target marketing efforts based on seasonal trends.
+  
+     ![viii](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/9c4d2631-0787-4127-a22d-d5d26505d4df)
+
 - 9. Insights into the most ordered pizzas enable our client to understand customer preferences. This information informs strategic decision-making in marketing, inventory management, and potential promotions to enhance customer satisfaction and business success.
+  
+      ![ix](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/8625a306-2ee9-49cf-ac98-6387d621d775)
+
 - 10. The preferred pizza size is consistently the Large (L) size, guiding decisions in inventory management, pricing strategies, and marketing efforts for optimal customer satisfaction.
+
+      ![x](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/501a509a-a2d1-473e-bc57-476d2b877401)
+
 - 11. The Classic pizza category is the most preferred based on order frequency, offering crucial insights for strategic decision-making and improvements across various aspects of the pizza business.
+
+       ![xi](https://github.com/Thankgodezugwu/Data-Analysis/assets/145191825/aced6e05-7d6e-47b1-aba5-01464b72c4bc)
+
 - 12. The abundance of "Classic" pizzas indicates its popularity among customers, presenting valuable information for business decision-making and potential areas for marketing focus.
 
 ### Recommendation
