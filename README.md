@@ -1,6 +1,6 @@
 
 ## Overview
-This Data Analysis projects have been developed with the primary objective of highlighting my expertise in leveraging technical skills, including Python, MySQL, Excel, and PowerBI, to address real-world data-related challenges. They represent a subset of my broader project portfolio, reflective of my dedicated and continuous efforts in delivering impactful solutions across various initiatives.
+This Data Analysis project has been developed with the primary objective of highlighting my expertise in leveraging technical skills, including Python, MySQL, Excel, and PowerBI, to address real-world data-related challenges. They represent a subset of my broader project portfolio, reflective of my dedicated and continuous efforts in delivering impactful solutions across various initiatives.
 
 ## Customer Segmentation and Preferences Analysis: Pizza Sales 
 ### Project Overview 
