@@ -1,14 +1,11 @@
-# Data-Analysis
-# Data Analysis Projects
-## Overview
-These Data Analysis projects have been developed with the primary objective of highlighting my expertise in leveraging technical skills, including Python, MySQL, Excel, and PowerBI, to address real-world data-related challenges. They represent a subset of my broader project portfolio, reflective of my dedicated and continuous efforts in delivering impactful solutions across various initiatives.
-## Table of contents 
- - [Pizza Sales Analysis](#Pizza-Sales-Analysis)
- - [Bank Fraud Analysis and Prediction](#Bank-Fraud-Analysis-and-Prediction)
 
-## Pizza Sales Analysis
+## Overview
+This Data Analysis projects have been developed with the primary objective of highlighting my expertise in leveraging technical skills, including Python, MySQL, Excel, and PowerBI, to address real-world data-related challenges. They represent a subset of my broader project portfolio, reflective of my dedicated and continuous efforts in delivering impactful solutions across various initiatives.
+
+## Customer Segmentation and Preferences Analysis: Pizza Sales 
 ### Project Overview 
-This project is all about understanding how well the pizza business has been doing in the past year. We looked at the different parts of the sales information to find patterns, suggest ideas based on data, and get a better picture of how the company is doing. The aim is to use this information to make smarter decisions and improve how the business operates.
+This project delves into the realm of pizza sales, aiming to uncover valuable insights into customer segmentation and preferences within the industry. By analyzing a diverse range of factors including demographics, ordering behaviors, and preferred pizza characteristics, this initiative seeks to understand how customers are segmented into distinct groups and what drives their purchasing decisions. Through meticulous examination of sales data and customer feedback, the project aims to identify patterns, trends, and preferences that can inform targeted marketing strategies, product offerings, and operational decisions. Ultimately, the goal is to empower pizza businesses with actionable insights to enhance customer satisfaction, loyalty, and overall sales performance in a competitive market landscape.
+
 ### About Dataset
 This pizza sales dataset make up 12 relevant features:
 order_id: Unique identifier for each order placed by a table
@@ -151,61 +148,5 @@ By systematically addressing these tasks, the dataset was prepared to undergo in
   - As with any analysis, it's crucial to exercise caution and consider these limitations when applying the results to real-world decision-making.
 ### Acknowledgment:
   - I extend my gratitude to BEPEC Solution for their unwavering commitmentment to training and mentorship and University of Hertfordshire at large.
-
-
-## Bank Fraud Analysis and Prediction
-### Project Overview 
-This data analysis project is designed to offer comprehensive insights into bank transactions over the past year. Through a meticulous examination of various facets of transactional data, our objective is to discern patterns, identify trends, make data-driven recommendations, and enhance our understanding of both fraudulent and non-fraudulent transactions within the banking system.
-In addition to the analytical aspects, this project features the development of a machine learning model capable of predicting the likelihood of a transaction being fraudulent. This showcases my adept analytical skills and proficiency in utilizing Python and machine learning algorithms for data analysis and predictive modeling. The integration of these techniques not only demonstrates a keen understanding of the subject matter but also underscores my ability to apply advanced methodologies to real-world scenarios.
-### Data Sources:
-The primary dataset employed for this analysis originates from BEPEC Solution and serves as a pivotal component of intern training. The dataset, accessible [here](https://github.com/Thankgodezugwu/Data-Analysis/blob/main/Bank%20Fraud%20Analysis%20and%20prediction/banktransaction.csv) forms the basis for our exploration and examination of bank transactions, contributing to the comprehensive insights provided in this project.
-
-### Tools
-  - Jupiter Notebook: For interactive data analysis, coding, and visualization.
-  - Python: Programming Language used.
-  - Machine Learning: For Predictive Modelling
-### Data Cleaning/Preparation
-In the initial data preparation phase, we performed the following tasks:
-  - Loading and inspecting the dataset to gain a comprehensive understanding of its structure.
-  - A thorough examination for missing values was conducted, with subsequent measures implemented for handling them.
-  - Feature engineering techniques were applied to refine and optimize the dataset, ensuring it was primed for in-depth analysis..
-
-### Exploratory Data Analysis:
-Conducted exploratory data analysis to gain deeper insights that can address the following questions:
--	Do customers prefer online transactions or cash transactions?
--	Between online transactions and cash transactions, which has a higher percentage or number of frauds?
--	In which month of the year does fraud typically occur?
--	Is there any correlation between the transactional data?
-### Results/Findings:
-1. Upon analyzing the transactions and visualizations, it is evident that customers exhibit a preference for online transactions over cash transactions, with online transactions accounting for 67.5%, and cash transactions representing 32.5%.
-2. It has been observed that fraudulent transactions are more prevalent in cash transactions compared to online transactions. Specifically, cash transactions exhibit a 44.3% incidence of fraudulent activities, while online transfer transactions have a comparatively lower rate of 38.2% fraudulent transactions. (Note: 1 represents non-fraudulent, and 0 represents fraudulent).
-3. A noticeable trend is observed where fraudulent activities are more prevalent between March and July, with a decrease observed in the period from August to December.
-4. There are no highly correlated variables in the dataset. The absence of highly correlated variables suggests that there is no strong linear relationship between the examined variables.
-### Recommendation
-Based on the analysis conducted, it is advisable to consider the following recommendations:
-1. Enhance Fraud Detection Measures: Given the higher incidence of fraudulent activities in cash transactions, it is recommended to strengthen fraud detection mechanisms specifically tailored for cash transactions. This may include implementing advanced anomaly detection algorithms or enhancing monitoring during peak fraud-prone periods between March and July.
-2. Customer Education and Communication: As customers demonstrate a clear preference for online transactions, consider investing in targeted educational campaigns to enhance awareness about online transaction security. Empowering customers with information and best practices can contribute to a more secure and fraud-resistant environment.
-3. Seasonal Adjustments: Acknowledging the observed trend of increased fraudulent activities between March and July, financial institutions may benefit from implementing seasonal adjustments in fraud prevention strategies during these months. This could involve allocating additional resources for monitoring and adopting proactive measures.
-4. Continuous Monitoring and Adaptation: Regularly reassess and update fraud detection models and strategies to stay ahead of evolving fraud patterns. Continuous monitoring of transactional data and prompt adaptation of preventive measures will contribute to maintaining the effectiveness of the fraud prevention system.
-Implementing these recommendations can contribute to a more robust and adaptive fraud prevention system, aligning strategies with customer preferences and addressing specific challenges highlighted in the analysis.
-### Limitations 
-- The dataset's small size may affect the depth and reliability of our findings. A larger dataset is recommended for a more thorough understanding of transaction patterns and fraud trends.
-- Imbalanced data, with uneven distribution between fraudulent and non-fraudulent transactions, impacts the accuracy of our fraud detection models. Addressing this through sampling techniques could improve model performance.
-- Temporal constraints limit our analysis to the dataset's timeframe, hindering our ability to identify long-term trends or cyclical patterns in fraudulent activities. Extending the data collection period could provide a more comprehensive view.
-- Missing information, like additional customer demographics or transaction details, limits our analysis depth. Including more comprehensive data attributes would enhance our understanding of customer behavior and potential risks.
-- External factors, such as economic or regulatory changes, influencing transaction patterns and fraud occurrences, are not considered in our analysis. Incorporating these could provide a more holistic perspective.
-- Our analysis primarily explores linear relationships between variables. Investigating non-linear relationships may reveal additional insights, requiring advanced analytical techniques beyond our current scope.
-- Addressing these limitations; acquiring more data, mitigating imbalances, extending the timeframe, including missing variables, considering external factors, and exploring non-linear relationships—would strengthen the reliability of our fraud analysis.
-### Acknowledgment:
-I extend my gratitude to BEPEC Solution for their unwavering commitment to training and mentorship Aand University of Hertfordshire at large.
-
-
-### References
-Guerrero, H. (2019). Excel Data Analysis Modeling and Simulation. 
-Embarak, O. (2018). Data Analysis and Visualization Using Python: Analyze Data to Create Visualizations for BI Systems.
-Iskandar Inan, D., & Juita, R. (2011). Research Data Analysis with Power BI. International Journal of Computer Science & Information Technology (IJCSIT), 3(5), 173. DOI: 10.5121/ijcsit.2011.3515 
-Krishnan, V. (2017, Aug). Research Data Analysis with Power BI. Anna University. Retrieved from http://ir.inflibnet.ac.in/handle/1944/2116
-Maven Analytics. (2015). Maven Pizza Challenge Datasets. Retrieved [Month Day, Year], from https://www.mavenanalytics.io/blog/maven-pizza-challenge
-Microsoft Corporation. (2021). Power BI documentation. Microsoft Learn. https://learn.microsoft.com/en-us/power-bi/
 
 
